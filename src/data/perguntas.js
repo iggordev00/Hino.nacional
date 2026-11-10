@@ -1,0 +1,12 @@
+export const perguntas = [
+  { pergunta: 'Quem compôs a música do Hino Nacional?', alternativas: ['Heitor Villa-Lobos', 'Francisco Manuel da Silva', 'Carlos Gomes', 'Joaquim Osório Duque-Estrada'], correta: 1, explicacao: 'Francisco Manuel da Silva compôs a melodia.' },
+  { pergunta: 'Quem escreveu a letra oficial?', alternativas: ['Castro Alves', 'Olavo Bilac', 'Joaquim Osório Duque-Estrada', 'Machado de Assis'], correta: 2, explicacao: 'A letra oficial é de Joaquim Osório Duque-Estrada.' },
+  { pergunta: 'Em que ano a letra atual foi oficializada?', alternativas: ['1822', '1889', '1922', '1971'], correta: 2, explicacao: 'A letra foi oficializada em 1922.' },
+  { pergunta: 'Qual é um dos símbolos oficiais do Brasil?', alternativas: ['O Hino Nacional', 'O carnaval', 'O futebol', 'O samba'], correta: 0, explicacao: 'O Hino Nacional é um dos símbolos nacionais oficiais.' },
+  { pergunta: 'A melodia foi composta em que ano?', alternativas: ['1500', '1831', '1909', '1971'], correta: 1, explicacao: 'A melodia foi composta em 1831.' },
+  { pergunta: 'Qual lei trata dos símbolos nacionais?', alternativas: ['Lei nº 5.700/1971', 'Lei Áurea', 'Constituição de 1824', 'Lei do Ventre Livre'], correta: 0, explicacao: 'A Lei nº 5.700, de 1971, trata dos símbolos nacionais.' },
+  { pergunta: 'Qual palavra do hino significa bandeira ou estandarte?', alternativas: ['Clava', 'Lábaro', 'Penhor', 'Plácidas'], correta: 1, explicacao: 'Lábaro significa bandeira ou estandarte.' },
+  { pergunta: 'Qual tema aparece no hino?', alternativas: ['Apenas esportes', 'Liberdade e pátria', 'Somente tecnologia', 'Comércio internacional'], correta: 1, explicacao: 'O texto aborda liberdade, pátria e identidade nacional.' },
+  { pergunta: 'Qual comportamento demonstra respeito durante a execução?', alternativas: ['Conversar alto', 'Fazer brincadeiras', 'Manter postura respeitosa', 'Interromper a execução'], correta: 2, explicacao: 'Manter uma postura respeitosa é uma forma de honrar o símbolo.' },
+  { pergunta: 'O que ajuda a compreender a letra?', alternativas: ['Ignorar palavras desconhecidas', 'Consultar o glossário e o contexto histórico', 'Ler apenas o título', 'Pular todas as estrofes'], correta: 1, explicacao: 'Conhecer o vocabulário e o contexto ajuda na interpretação.' }
+];
